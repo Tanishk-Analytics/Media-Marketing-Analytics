@@ -15,3 +15,10 @@ This repository contains Python scripts and SQL queries designed to automate cam
 - **Analytics:** Google Ads Fundamentals, Search Engine Mechanics
 - **Tools:** GitHub, VS Code
 
+## 📈 Key Formulas Implemented
+List the math:
+ROAS = Revenue / Ad Spend
+CPA = Ad Spend / Conversions
+Revenue = (Clicks * Conv. Rate) * Avg. Sale Value
+
+
