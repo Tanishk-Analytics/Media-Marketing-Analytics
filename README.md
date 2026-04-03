@@ -21,4 +21,7 @@ ROAS = Revenue / Ad Spend
 CPA = Ad Spend / Conversions
 Revenue = (Clicks * Conv. Rate) * Avg. Sale Value
 
-
+## List Implementation for Large Dataset
+Building list and storing Data
+To Manage the multiple datasets together
+To get detailed large volume of data insight
