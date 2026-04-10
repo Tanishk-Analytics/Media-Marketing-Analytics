@@ -31,3 +31,8 @@ To get detailed large volume of data insight
 
 ### 🛠️ Automatic CSV reader : April 8, 2026
 - Reviewed core ROI logic and verified Multi-Campaign structures
+
+
+git add auditor.py
+git commit -m "Project 1: Finalized CSV pipeline and added portfolio summary analytics"
+git push origin main
